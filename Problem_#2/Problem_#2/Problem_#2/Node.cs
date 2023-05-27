@@ -8,10 +8,10 @@ namespace Problem__2
 {
     public class Node
     {
-        public int Value { get; set; }
+        public string Value { get; set; }
         public Node Next { get; set; }
 
-        public Node(int value)
+        public Node(string value)
         {
             Value = value;
             Next = null;
