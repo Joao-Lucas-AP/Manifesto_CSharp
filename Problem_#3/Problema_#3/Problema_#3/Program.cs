@@ -1,10 +1,21 @@
 ﻿using System;
 using System.Security.Cryptography;
 
-class Program
+namespace Problema__3
 {
-    static void Main()
+    class Program
     {
-        Console.WriteLine("Hello world!");
+        static void Main()
+        {
+            Deck deck = new Deck();
+            Console.WriteLine("Initial deck:");
+            deck.PrintDeck();
+
+            Console.WriteLine("\n___________________\n");
+
+            deck.Shuffle();
+            Console.WriteLine("\nShuffled deck:");
+            deck.PrintDeck();
+        }
     }
 }
