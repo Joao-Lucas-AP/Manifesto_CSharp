@@ -1,0 +1,15 @@
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\bin\Debug\net6.0\Problema_#3.exe
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\bin\Debug\net6.0\Problema_#3.deps.json
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\bin\Debug\net6.0\Problema_#3.runtimeconfig.json
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\bin\Debug\net6.0\Problema_#3.dll
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\bin\Debug\net6.0\Problema_#3.pdb
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.csproj.AssemblyReference.cache
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.AssemblyInfoInputs.cache
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.AssemblyInfo.cs
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.csproj.CoreCompileInputs.cache
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.dll
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\refint\Problema_#3.dll
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.pdb
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\Problema_#3.genruntimeconfig.cache
+D:\Teste_Tecnico_Manifesto_CSharp\Problem_#3\Problema_#3\Problema_#3\obj\Debug\net6.0\ref\Problema_#3.dll
